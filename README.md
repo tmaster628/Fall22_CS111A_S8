@@ -1,7 +1,7 @@
-# CS111A Section 8
-_CS111A Code Repository for Section 5 (Fall 2023)_
+# CS111A Section 5
+_CS111A Code Repository for Section 5 (Winter 2024)_
 
-Welcome back to CS111A! Today we'll be talking about pipes!... 
+Welcome back to CS111ACE! Today we'll be talking about pipes!... 
 
 To clone this repository, log into myth, navigate to where you want the project to live, and then type
 
